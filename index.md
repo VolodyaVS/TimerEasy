@@ -3,7 +3,7 @@
 If you have questions regarding the application, problems with its use, feedback or requests for improvement of functions, you can contact me by email: volodyavolga@protonmail.ch
 
 
-##Privacy Policy
+## Privacy Policy
 
 Vladimir Stepanchikov built the Timer easy app as a Free app. This SERVICE is provided by Vladimir Stepanchikov at no cost and is intended for use as is.
 
