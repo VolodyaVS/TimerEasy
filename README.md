@@ -1,3 +1,3 @@
 # Timer easy
 Support pages:
-https://volodyavs.github.io/Timer-easy/
+https://volodyavs.github.io/TimerEasy/
