@@ -2,6 +2,8 @@
 
 If you have questions regarding the application, problems with its use, feedback or requests for improvement of functions, you can contact me by email: volodyavolga@protonmail.ch
 
+Thank you Rizki Ahmad Fauzi for best icon (https://www.flaticon.com/authors/rizki-ahmad-fauzi).
+
 
 ## Privacy Policy
 
