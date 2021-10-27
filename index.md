@@ -1,3 +1,7 @@
+# 
+Our new app is live. You’re officially invited to come check it out. Download on the App Store today.
+[Timer easy](https://apple.co/3jHaeoM)
+
 ## Welcome to Support Pages
 
 If you have questions regarding the application, problems with its use, feedback or requests for improvement of functions, you can contact me by email: volodyavolga@protonmail.ch
