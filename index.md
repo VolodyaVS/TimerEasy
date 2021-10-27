@@ -1,5 +1,4 @@
-# 
-Our new app is live. You’re officially invited to come check it out. Download on the App Store today.
+# Our new app is live. You’re officially invited to come check it out. Download on the App Store today.
 [Timer easy](https://apple.co/3jHaeoM)
 
 ## Welcome to Support Pages
