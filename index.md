@@ -1,4 +1,4 @@
-## Our new app is live. 
+# Our new app is live. 
 You’re officially invited to come check it out. Download on the App Store today.
 
 <p>
