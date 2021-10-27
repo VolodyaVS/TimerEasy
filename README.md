@@ -6,8 +6,8 @@ You’re officially invited to come check it out. Download on the App Store toda
 ![Image alt](https://github.com/VolodyaVS/TimerEasy/raw/main/image.svg)(https://apple.co/3jHaeoM)
 
 <p>
-<a href="https://indiafightscorona.giveindia.org">
-<img src="https://d2wvdrxmr8p0wf.cloudfront.net/static/giveindia.svg" alt="Give india logo" width="200" />
+<a href="https://apple.co/3jHaeoM">
+<img src="https://github.com/VolodyaVS/TimerEasy/raw/main/image.svg" />
 </a>
 </p>
 
