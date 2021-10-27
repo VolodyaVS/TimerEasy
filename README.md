@@ -7,7 +7,7 @@ You’re officially invited to come check it out. Download on the App Store toda
 
 <p>
 <a href="https://apple.co/3jHaeoM">
-<img src="https://github.com/VolodyaVS/TimerEasy/raw/main/image.svg" />
+<img src="https://github.com/VolodyaVS/TimerEasy/raw/main/image.svg">
 </a>
 </p>
 
